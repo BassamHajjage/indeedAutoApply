@@ -1,0 +1,7 @@
+{
+  "name": "Indeed Auto Apply",
+  "description": "Automatically apply to Indeed job listings",
+  "version": "1.0",
+  "author": "Zebulun McNeill",
+  "manifest_version": 3
+}
