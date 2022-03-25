@@ -10,8 +10,7 @@
   },
   "manifest_version": 3,
   "background": {
-    "service_worker": "background.js",
-    "scripts": ["main.js"]
+    "service_worker": "main.js"
   },
   "permissions": ["storage", "activeTab", "scripting"],
   "action": {
