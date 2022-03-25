@@ -8,5 +8,8 @@
     "32": "icon.png",
     "64": "icon.png"
   },
-  "manifest_version": 3
+  "manifest_version": 3,
+  "background": {
+    "service_worker": "background.js"
+  }
 }
