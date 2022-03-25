@@ -3,5 +3,10 @@
   "description": "Automatically apply to Indeed job listings",
   "version": "1.0",
   "author": "Zebulun McNeill",
+  "icons": {
+    "16": "icon.png",
+    "32": "icon.png",
+    "64": "icon.png"
+  },
   "manifest_version": 3
 }
