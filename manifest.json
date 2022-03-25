@@ -1,4 +1,5 @@
 {
+  "manifest_version": 3,
   "name": "Indeed Auto Apply",
   "description": "Automatically apply to Indeed job listings",
   "version": "0.1",
@@ -8,10 +9,9 @@
     "32": "icon.png",
     "64": "icon.png"
   },
-  "manifest_version": 1,
   "content_scripts": [
     {
-      "matches": ["<all_urls"],
+      "matches": ["<all_urls>"],
       "js": ["Content.js"]
     }
   ]
