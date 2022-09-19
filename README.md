@@ -11,3 +11,17 @@ Breaking into a career in tech has proven to be a pure numbers game, so let's ge
 ## Contribution guide
 
 If you want to help bring this project to life (as well as maintain it): fork it, push your changes to the ```Community``` branch, and open a pull request.
+
+## Usage guide
+1. Open a Chrome window, download this package and unzip
+2. Go to your chrome extensions page (3 dots on top right -> More tools -> Extensions)
+
+![image](https://user-images.githubusercontent.com/85369725/190994010-7ac10c1f-c9db-4573-a878-f8a778bf9497.png)
+
+4. Load unpacked
+
+![image](https://user-images.githubusercontent.com/85369725/190994052-7a7ba157-ada5-4a41-8387-a07d1c169aee.png)
+
+6. Navigate to the unzipped folder and press "Select folder"
+
+![image](https://user-images.githubusercontent.com/85369725/190994224-6c9e5df0-e24c-45d1-8a7f-3917748d1de0.png)
